@@ -1,4 +1,4 @@
-# ❌⭕️ TIC-TAC-TOE ⭕️❌
+# TIC-TAC-TOE
 ## Preview
 ![game-preview](https://github.com/kuttnig/tic-tac-toe/blob/main/game-preview.gif)
 ## About
